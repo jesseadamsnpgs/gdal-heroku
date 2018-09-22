@@ -1,6 +1,4 @@
 src/
 dist/
-cedar-stack/
-gdal-cedar/
 gdal-heroku-16
 heroku-16-stack
